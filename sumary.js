@@ -8,4 +8,8 @@ console.log(typeof eggprice);
 
 var siger = "shkib";
 
+// boolean
 
+
+var weatherIsHot = true ;
+console.log(typeof weatherIsHot);
